@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+}
+
+.wrapper{
+    height: 20em;
+    background-color: gainsboro;   
+    width: 25em;
+    margin: 5em auto 1em;
+}
+.content{
+    padding: 1em
+}
+.title{
+    display: flex;
+    gap: 3em;
+}
+.success{
+  font-weight: bold;
+  color: green;
+  font-size: 20px;  
+}
+.fail{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+}
+.quiz-game{
+    font-size: larger;
+    font-weight: bold;
+    color: #00FF7F;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h3{
+    text-align: center;
+    font-weight: 600;
+}
+.questions{
+    /* display: flex;
+    flex-direction: column; */
+    padding-bottom: 2em;
+}
+label{
+    cursor: pointer;
+}
+.button{
+    padding-top: 2.5em;
+}
+
+.submit-button{
+  text-align: center; 
+  margin: auto;
+  width: 28em;
+  height: 2em;
+  overflow: hidden;
+  cursor: pointer;
+}
+.submit-button:hover{
+    filter: brightness(20em);
+}
+.submit-button:focus{
+    outline: none;
+    background-color: green;
+    
+}

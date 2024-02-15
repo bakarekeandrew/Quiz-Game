@@ -1,0 +1,34 @@
+quizData = [
+    {
+        question: "How many planets in the Universe?🤷‍♂️",
+        first: "There are 9",
+        second: "There are 5",
+        third: "There are 2",
+        fourth: "There are 8,
+        correct: "first"
+    },
+    {
+        question: "Which programming language run on web browser?🤷‍♂️",
+        first: "Python",
+        second: "Java",
+        third: "Javascript",
+        fourth: "C",
+        correct: "third"
+    },
+    {
+        question: "Which programming language used for styling?🤷‍♂️",
+        first: "HTML",
+        second: "FIGMA",
+        third: "UML",
+        fourth: "CSS",
+        correct: "fourth"
+    },
+    {
+        question: "In which year javascript was invented?🤷‍♂️",
+        first: "1995",
+        second: "2000",
+        third: "1970",
+        fourth: "1954",
+        correct: "first"   
+    }
+]
